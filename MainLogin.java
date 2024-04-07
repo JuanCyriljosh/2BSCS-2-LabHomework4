@@ -1,5 +1,3 @@
-package asd12312312;
-
 import java.util.*;
 
 class MainLogin {
